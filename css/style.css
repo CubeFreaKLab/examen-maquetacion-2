@@ -80,6 +80,7 @@
             cursor: pointer;
             font-size: 15px;
             transition: transform 0.2s ease, background-color 0.1s ease;
+            font-weight: 600;
         }
         .caja-izq-inicio button:active{
             background-color: #e57a41;
